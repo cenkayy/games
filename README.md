@@ -1,9 +1,9 @@
 # Tic-Tac-Toe with AI support using JavaFX
-<img src="https://github.com/cnkay/games-tictactoe/blob/master/images/build.jpg"> <img src="https://github.com/cnkay/games-tictactoe/blob/master/images/license.jpg">
+<img src="https://github.com/cnkay/games-tictactoe/blob/master/images/build.svg"> <img src="https://github.com/cnkay/games-tictactoe/blob/master/images/license.svg">
 
 Can playable as turn based player 1 vs player 2 mode and player vs computer.
 
-<img src="https://github.com/cnkay/games-tictactoe/blob/master/images/1.jpg"> <img src="https://github.com/cnkay/games-tictactoe/blob/master/images/2.jpg"> 
+<img src="https://github.com/cnkay/games-tictactoe/blob/master/images/1.png"> <img src="https://github.com/cnkay/games-tictactoe/blob/master/images/2.png"> 
 
 
 
