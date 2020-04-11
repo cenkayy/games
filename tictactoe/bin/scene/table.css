@@ -1,0 +1,51 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-focus-color: transparent;
+}
+.button{
+	-fx-background-radius:0;
+	-fx-text-fill: white;
+	-fx-border-radius:0;
+	-fx-border-color:black;
+	-fx-border-width:2;
+	-fx-text-alignment:center;
+}
+.button{
+	-fx-background-color:cyan
+}
+.button:hover{
+	-fx-background-color: #42a5f5;
+}
+.button:pressed{
+	-fx-background-color: #2196f3;
+}
+.button:focused{
+	-fx-focus-color:transparent;
+}
+#lblTurnText{
+	-fx-text-fill:white;
+}
+.menu-bar{
+	-fx-background-color:#d4e157;
+	-fx-border-radius: 10 10 0 0;
+	-fx-background-radius: 10 10 0 0;
+	-fx-border-color:black;
+	-fx-border-width:2;
+}
+.menu-bar .label{
+	-fx-text-fill:black;
+}
+#vBoxTurn{
+	-fx-background-color:#3f51b5;
+	-fx-border-radius: 0 0 10 10;
+	-fx-background-radius: 0 0 10 10;
+	-fx-border-color:black;
+	-fx-border-width:2;
+}
+#paneExit{
+	-fx-background-color:red;
+	-fx-border-radius: 10 10 0 0;
+	-fx-background-radius: 10 10 0 0;
+	-fx-border-color:black;
+	-fx-border-width:2;
+}

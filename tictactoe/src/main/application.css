@@ -1,0 +1,37 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-focus-color: transparent;
+}
+.button{
+	-fx-background-radius:0;
+	-fx-text-fill: white;
+	-fx-border-radius:0;
+	-fx-border-color:transparent;
+	-fx-border-width:0;
+}
+#btnPlayer{
+	-fx-background-color: #64b5f6;
+	
+}
+#btnPlayer:hover{
+	-fx-background-color: #42a5f5;
+	
+}
+#btnPlayer:pressed{
+	-fx-background-color: #2196f3;
+}
+#btnPlayer:focused{
+	-fx-focus-color:transparent;
+}
+#btnComputer{
+	-fx-background-color: #e57373;
+}
+#btnComputer:hover{
+	-fx-background-color: #ef5350;
+}
+#btnComputer:pressed{
+	-fx-background-color: #f44336;
+}
+#btnComputer:focused{
+	-fx-focus-color:transparent;
+}
